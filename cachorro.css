@@ -1,0 +1,32 @@
+body{
+
+    background-color: darksalmon;
+}
+
+h1{
+
+    color: blanchedalmond;
+
+}
+
+h3{
+
+    color: bisque;
+}
+
+.title{
+    color: blanchedalmond;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: x-large;
+}
+
+.bemestar{
+
+}
+
+#cachorro1{
+
+    width: 30%;
+}
